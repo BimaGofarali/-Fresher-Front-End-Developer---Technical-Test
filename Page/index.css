@@ -1,0 +1,17 @@
+.card {
+  width: 18rem;
+}
+.detail-card {
+  display: none;
+}
+
+.explore {
+  cursor: pointer;
+}
+.detail-card.explore-more {
+  display: inline;
+}
+
+a {
+  font-weight: bold;
+}
